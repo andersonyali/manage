@@ -26,7 +26,7 @@ import static org.apache.commons.lang3.StringUtils.isNumeric;
 
 /**
  * @param
- * @Author: Zhaojiatao
+ * @Author: destinyyali
  * @Description:
  * @Date: Created in 2018/2/21 11:18
  */
@@ -60,7 +60,7 @@ public class MenuController {
 
 
     /**
-    * @Author: Zhaojiatao
+    * @Author: destinyyali
     * @Description: 查询parentId为1的所有菜单及子菜单集合
     * @Date: Created in 2018/2/21 12:53
     * @param
@@ -122,7 +122,7 @@ public class MenuController {
 
 
     /**
-    * @Author: Zhaojiatao
+    * @Author: destinyyali
     * @Description: 编辑节点之前将该节点select出来
     * @Date: Created in 2018/2/24 17:03
     * @param 

@@ -23,7 +23,7 @@ import java.util.List;
 /**
  * Druid配置
  *
- * @author zhaojiatao
+ * @author destinyyali
  */
 @Configuration
 public class DruidConfig {

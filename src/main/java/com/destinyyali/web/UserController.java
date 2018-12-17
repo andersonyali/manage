@@ -31,7 +31,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
-* @Author: Zhaojiatao
+* @Author: destinyyali
 * @Description: 当前登录用户控制器
 * @Date: Created in 2018/2/8 19:28
 * @param 
